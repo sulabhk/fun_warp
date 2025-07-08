@@ -5,4 +5,14 @@ This is a programming challenge for candidates who are interested in applying to
 
 Participation in the challenge is optional. You can still submit an application without doing the hiring challenge.
 
-Get started by reading the [challenge description](mission_challenge.md). Good luck!
+Get started by reading the [challenge description](mission_challenge.md).
+
+## Had fun warping!
+```
+1. Open terminal
+2. cd ~/<repo-root>
+3. ./src/run.awk space_missions.log
+```
+
+## Test info
+Tested only with Mac v15.5!
